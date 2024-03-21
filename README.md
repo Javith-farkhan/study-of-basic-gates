@@ -67,7 +67,10 @@ Y= A⊕B
 
 
  ## PROGRAM
- ![Screenshot 2024-03-13 153354](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/91cd9c06-dc03-4c8c-9aca-5f9e3eab0189)
+```
+ Developed by:JAVITH FARKHAN S
+ RegisterNumber: 212221240017
+```
 
 ## Logic symbol & Truthtable
 ![Screenshot 2024-03-13 153758](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/f9705d15-097d-41f0-938e-727ac8c817fe)
